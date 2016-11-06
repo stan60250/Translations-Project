@@ -1,0 +1,36 @@
+#Traditional Chinese Translation by MapleHuang(stan60250@gmail.com)
+NOT_PLAYER: '&c您必須是遊戲中玩家才能使用此功能!'
+NOT_ONLINE: '&c該玩家目前離線!'
+NO_SKIN: '&9沒有皮膚資料可以清除!'
+SKIN_CHANGE_SKIN_DATA_CLEARED: '&9您的皮膚資料已經清除!'
+SKIN_COOLDOWN: '&c更換皮膚冷卻中(每 %s 秒可更換一次)'
+SKIN_CHANGE_SUCCESS: '&9您的皮膚資料已經更新!'
+SKIN_CLEAR_SUCCESS: '&9您的皮膚資料已經移除!'
+SKIN_CHANGE_SUCCESS_DATABASE: '&9您的皮膚資料已經從資料庫更新!'
+PLAYER_HAS_NO_PERMISSION: '&c權限不足!'
+SKIN_DISABLED: '&c這個皮膚已經被管理員停用!'
+UNKNOWN_COMMAND: '&c未知的指令, 輸入"/help"檢視說明'
+ALT_API_FAILED: '&c皮膚 API 超過負荷, 請稍後再試!'
+NOT_PREMIUM: '&c使用該名字的正版玩家並不存在!'
+RATE_LIMITED: '&c速度限制! 請等候10分鐘才能再次使用該皮膚'
+GENERIC_ERROR: '&c存取皮膚資料時發生錯誤!'
+SKIN_DATA_DROPPED: '&9玩家 %player 的皮膚資料已經移除!'
+SKIN_DATA_SAVED: '&9皮膚資料已成功儲存!'
+SKIN_DATA_UPDATED: '&9皮膚資料已成功更新!'
+PLAYER_HELP: |-
+  &e&m-------------&r&8[ &aSkinsRestorer &8]&e&m-------------&r
+   &9/skin <皮膚名稱> &f-&a 設定您的皮膚
+   &9/clearskin &f-&a 移除您的皮膚
+ADMIN_SET_SKIN: '&a您設定了玩家 %player 的皮膚'
+ADMIN_HELP: |-
+  &a&m-------------&r&8[ &9SkinsRestorer 管理員 &8]&a&m-------------&r
+   &9/skinsrestorer set <玩家> <皮膚名稱> &9-&a 設定玩家的皮膚
+   &9/skinsrestorer drop <玩家> &9-&a 移除玩家的皮膚
+   &9/skinsrestorer debug &9- &a建立 debug.txt 檔案以提供錯誤回報
+   &9/skinsrestorer reload &9- &a重新載入設定和語系
+   &9/skinsrestorer reloadskins &9- &a重新載入皮膚選單
+   &9/skinsrestorer props [玩家] &9- &a重新載入設定和語系
+RELOAD: '&9設定和語系已重新載入!'
+RELOAD_SKINS: '&9皮膚選單已重新載入!'
+NO_SKIN_DATA: '&9找不到皮膚資料!'
+OUTDATED: "&4您正在使用舊版的 SKINSRESTORER!\n&c請更新至最新版本:\n&ehttps://www.spigotmc.org/resources/skinsrestorer.2124/"
