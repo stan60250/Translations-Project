@@ -1,0 +1,104 @@
+﻿#Simplified Chinese(zh_CN) for Shiginima Minecraft Launcher(v3.000) By MapleHuang(stan60250@gmail.com) 2016.04.05
+
+# Insert ISO language code ( https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes ) into langcode
+# and insert the native language name and the code into description
+langcode: "zh"
+description: "Chinese (zh)"
+
+# Check http://minecraft.gamepedia.com/Language . If the language you are translating into is within the game itself, 
+# insert the Locale Code into the quotes below and set minecraft.language.exists to true. Otherwise, set it to false
+# and leave minecraft.language.code in empty quotes like minecraft.language.code: ""
+minecraft.language.exists: true
+minecraft.language.code: "zh_CN"
+
+button.ok: "Ok"
+button.save: "保存"
+button.update: "更新"
+button.cancel: "取消"
+update.title.updateavail: "有新版的启动器更新可使用!"
+login.tab.main: "主要"
+login.tab.main.title: "---- 用户名 ----"
+login.tab.main.save: "保存用户名"
+login.tab.main.delete: "删除用户名"
+login.tab.main.play: "开始游戏"
+login.tab.options: "选项"
+login.tab.options.auto: "<html>依照选择的用户名自动登录<br><i>(当使用自动登录之后，点击 '注销' 返回登录介面)</i>"
+login.msg.saved: "您必须重新启动启动器来使改变的语言设置生效!"
+login.msg.blank.1: "您输入的用户名为空白!"
+login.msg.blank.2: "请再试一次!"
+login.msg.auto.1: "当您按下开始游戏之后, 每次您启动 Shiginima 启动器时"
+login.msg.auto.2.1: "将会自动登录至用户 "
+login.msg.auto.2.2: " "
+login.msg.auto.3: "要返回登录介面, 请点击 '注销'"
+main.button.newprof: "新增规划文件"
+main.button.editprof: "编辑规划文件"
+main.button.play: "开始游戏"
+main.button.logout: "注销"
+main.button.web: "启动器网站"
+main.tab.news: "Shiginima 更新日志"
+main.tab.mcnews: "Minecraft 更新日志"
+main.tab.devcons: "开发主控台"
+main.tab.peditor: "规划文件编辑器"
+main.tab.peditor.vname: "版本名称"
+main.tab.peditor.v: "版本"
+main.tab.peditor.user: "用户名"
+main.tab.lve: "本机版本编辑器 (NYI)"
+main.tab.lve.vname: "版本名称"
+main.tab.lve.vtype: "版本类型"
+main.tab.lve.rdate: "发布日期"
+main.tab.lve.lmod: "最后修改"
+main.tab.lve.lcount: "资料笔数"
+main.tab.lve.sstatus: "同步状态"
+main.pe.title: "规划文件编辑器"
+main.pe.pinfo: "规划文件资讯"
+main.pe.pname: "规划文件名称:"
+main.pe.gamedir: "游戏文件夹:"
+main.pe.snapshot: "启用实验性的开发版本 (Snapshots)"
+main.pe.usever: "使用版本:"
+main.pe.res: "窗口大小"
+main.pe.vis: "启动器保留"
+main.pe.jset: "Java 设置 (高级)"
+main.pe.exec: "程序文件路径:"
+main.pe.jvmarg: "JVM 参数"
+main.pe.button.cancel: "取消"
+main.pe.button.opendir: "开启游戏文件夹"
+main.pe.button.save: "保存规划文件"
+
+## BELOW USED FOR SHIGINIMA LAUNCHER VERSION 2.0
+button.restart: "重新启动"
+login.tab.options.restart: "启动器重新启动"
+login.tab.options.restart.msg: "要使设置生效必须重新启动启动器! 立即重新启动?"
+main.pe.vertitle: "版本选择:"
+main.pe.veruse: "使用版本:"
+main.pe.verlatest: "使用最新版本"
+main.pe.mrt.dev.popup: "确定启用实验性的开发版本?\n不能保证稳定运行,并可能会损坏您的地图\n建议您在独立文件夹中运行,或是请先备份文件!"
+main.pe.mrt.old.popup: "这些版本已过时，可能会不稳定! 任何错误或是死机将不会修复!\n若有任何文件损坏,我们将不负责!"
+main.pe.mrt.snap: "启用实验性的开发版本 (\"snapshots\")"
+main.pe.mrt.oldbeta: "允许使用旧的 \"Beta\" Minecraft 版本 (从 2010-2011 年)"
+main.pe.mrt.oldalpha: "允许使用旧的 \"Alpha\" Minecraft 版本 (从 2010 年)"
+main.pe.mrt.snap.popup: "确定启用实验性的开发版本?\n不能保证稳定运行,并可能会损坏您的地图\n建议您在独立文件夹中运行,或是请先备份文件!"
+main.pe.mrt.oldbeta.popup: "这些版本已过时，可能会不稳定! 任何错误或是死机将不会修复!\n若有任何文件损坏,我们将不负责!"
+main.pe.mrt.oldalpha.popup: "这些版本已过时，可能会不稳定! 任何错误或是死机将不会修复!\n若有任何文件损坏,我们将不负责!"
+main.tab.pe.add: "新增规划文件"
+main.tab.pe.copy: "复制规划文件"
+main.tab.pe.delete: "删除规划文件"
+
+## BELOW USED FOR SHIGINIMA LAUNCHER VERSION 3.000
+login.tab.options.autolang: "自动设置启动器的语言为 Minecraft 的语言 (如果是可用的)"
+
+#Simplified Chinese(zh_CN) for Shiginima Minecraft Launcher(v3.000) By MapleHuang(stan60250@gmail.com) 2016.04.05
+
+#Shiginima Launcher Language File
+#
+#FOR TRANSLATORS
+#Simply place the translated text within the quotes.
+#Be sure to keep formatting such as HTML code, as well as punctuation and escape characters (Like \n) !
+#EXAMPLE BELOW:
+# Let's say you want to translate the below to another language:
+# login.msg.auto.3: "To get back to this login screen, \n simply click 'Log out' once logged in.""
+# 
+# To translate the string, simple edit the words while leaving the punctuation. Like this:
+# login.msg.auto.3: "Shi gi ni ma, \n shi gi ni 'ma' shi gi ni."
+#
+# As you can see the formatting was kept the same. Try to do this if your languge allows for it to be done.
+# When you have completed translation, E-Mail us at support@teamshiginima.com. Feel free to add your credits to these comments
