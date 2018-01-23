@@ -66,6 +66,23 @@ none: '無'
 enabled: '開啟'
 disabled: '關閉'
 guiInUse: '盔甲架選單正在被其他玩家使用中'
+# New since v2.4.0:
+notSupported: '此功能僅支持 Craftbukkit/Spigot 1.9 版以上'
+noASNearBy: '附近找不到盔甲架'
+closestAS: '最近的盔甲架'
+hasNoCmd: 'has no command assigned'
+hasCmd: 'has an assigned a command'
+type: '類型'
+command: '命令'
+unassignedCmd: 'Unassigned command from armor stand'
+assignedCmdToAS: 'Assigned command to closest armor stand'
+assignCmdError: 'An error occured while assigning command to closest armor stand'
+ascmdHelp: 'This command is used to assign a command to the nearest armor stand (within 4 blocks). The command is executed when the armor stand is right clicked.'
+viewCmd: 'View assigned command'
+removeCmd: 'Remove assigned command'
+assignConsole: 'Assign a command to be executed by the console'
+assignPlayer: 'Assign a command to be executed by the player'
+executeCmdError: 'An error occured executing the command assigned to this armor stand'
 #
 #############################
 # Tool names & descriptions #
